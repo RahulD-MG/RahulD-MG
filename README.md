@@ -6,7 +6,7 @@
 ### <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const rahulD = {
   pronouns: "he" | "his",
   code: [Javascript, HTML, CSS, Python, Java],
   tools: [React,ecllipse,VS],
